@@ -2,7 +2,7 @@
 
 This project rocks and uses MIT-LICENSE.
 
-Installation
+<h2>Installation</h2>
 Add to your Gemfile:
 
 ```ruby
@@ -27,7 +27,7 @@ And don't forget to migrate you database:
 $ rake db:migrate
 ```
 
-Preparing your models
+<h2>Preparing your models</h2>
 
 In your model:
 
